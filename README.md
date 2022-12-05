@@ -32,10 +32,7 @@ https://www.youtube.com/watch?v=vzYFZXI43hM
 -│   ├── CreateTable_TeamStats.sql
 -│   ├── CreateTable_Teams.sql
 -│   └── CreateTable_TopScorers.sql
--|
--│   ├── Import_CSV
--│   │   └── ImportData_TeamStats.sql
--│   └── Queries
+-|── Queries
 -│       ├── Query one
 -│       ├── Query two
 -│       ├── Query three
