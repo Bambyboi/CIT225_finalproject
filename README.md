@@ -1,5 +1,7 @@
 # CIT225_finalproject about NBA database 
 Samuel Kaleopa
+#Project Details
+- The goal of this project is to gain experience with database design and implementation. You need to choose a small domain (for example, food carts or campus sports teams) for which to implement a database, along with populating it with real data and producing example queries to execute over it.
 
 - For tables csv, those files can insert data easily on MySQL tables using Data import...
 - NBA database export - that is my whole nba database creation...
